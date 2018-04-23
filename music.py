@@ -7,3 +7,8 @@ if True is False:
 
 def solution(*args, **kwargs):
     time.sleep(20)
+
+
+def user_register(a):
+    if a > 10:
+        print(a)
