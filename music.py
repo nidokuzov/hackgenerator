@@ -12,3 +12,7 @@ def solution(*args, **kwargs):
 def user_register(a):
     if a > 10:
         print(a)
+
+def paument(amount):
+    if amount > 10:
+        print("Good Amound")
